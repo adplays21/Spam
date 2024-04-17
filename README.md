@@ -1,4 +1,3 @@
-Certainly! Here's a suggested GitHub project description for your SMS or email spam classifier:
 
 ---
 
